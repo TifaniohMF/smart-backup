@@ -16,5 +16,13 @@ chmod +x backup.sh
 ```bash
 ./backup.sh ~/folder-to-save ~/smart-backup/backups
 ```
+Or 
+```bash
+bash backup.sh ~/folder-to-save ~/smart-backup/backups
+```
+Or
+```bash
+sh backup.sh ~/folder-to-save ~/smart-backup/backups
+```
 
 After, your folder is saved in folder backups as an archibe
