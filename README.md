@@ -25,4 +25,4 @@ Or
 sh backup.sh ~/folder-to-save ~/smart-backup/backups
 ```
 
-After, your folder is saved in folder backups as an archibe
+After, your folder is saved in folder backups as an archive
